@@ -7,5 +7,4 @@ Saiba mais em [willianjusten.com.br](//https://willianjusten.com.br/)
 Gostei sim do curso
 
 
-Editando de novo
-
+Eu to gostando do curso de git :)
